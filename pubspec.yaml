@@ -21,15 +21,15 @@ environment:
   sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
-  carousel_slider: ^4.0.0
-  cupertino_icons: ^1.0.2
-  filesize: ^2.0.1
   flutter:
     sdk: flutter
-  flutter_svg: ^0.22.0
-  get: ^4.3.8
-  percent_indicator: ^3.0.1
-  url_launcher: ^6.0.10
+  carousel_slider: ^4.2.1
+  cupertino_icons: ^1.0.5
+  filesize: ^2.0.1
+  flutter_svg: ^2.0.5
+  get: ^4.6.5
+  percent_indicator: ^4.2.3
+  url_launcher: ^6.1.10
 
 dev_dependencies:
   flutter_test:
